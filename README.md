@@ -67,4 +67,4 @@ Description: This endpoint allows you to register a new product in the system. Y
 These API endpoints provide essential functionality for managing sales data, revenue analysis, inventory status, inventory updates, inventory change logs, and product registration within your e-commerce admin application. You can use the provided APIs to interact with and manage your e-commerce backend efficiently.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details..
